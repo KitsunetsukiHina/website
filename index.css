@@ -1,0 +1,53 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: rgb(196, 196, 196);
+}
+
+h1 {
+	color: rgb(255, 255, 255);
+	background-color: rgb(128, 0, 0);
+	font-family: Georgia;
+	font-size: 50px;
+	text-align: center;
+	width: 1919px;
+}
+
+p {
+	color: rgb(0, 0, 0);
+	background-color: rgb(196, 196, 196);
+	font-size: 15px;
+	text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+	height: 450px;
+}
+
+.link {
+	font-size: 25;
+	background-color: rgb(128, 0, 0);
+	color: rgb(255, 255, 255);
+	text-align: center;
+	float: left;
+	width: 1919px;
+}
+
+button {
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+	font-size: 20px;
+	color: white;
+}
+
+.contact {
+	text-align: center;
+	font-weight: bold;
+}
